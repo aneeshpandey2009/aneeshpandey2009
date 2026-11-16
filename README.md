@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**aneeshpandey2009/aneeshpandey2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aneesh Pandey 👋
 
-Here are some ideas to get you started:
+🎓 First-Year Engineering and Computational Mechanics Student at MANIT Bhopal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Software Developer
+
+## 🚀 About Me
+- Currently learning C and Java
+- Exploring Arduino and embedded systems
+- Interested in programming, problem-solving, and engineering projects
+- Building my skills one project at a time
+
+## 🛠️ Languages & Technologies
+- C
+- Java
+- Arduino
+- Git & GitHub
+
+## 🎯 Goals
+- Strengthen my programming fundamentals
+- Build practical projects
+- Contribute to open-source projects
+- Develop a strong technical portfolio
+
+Thanks for visiting my profile!
